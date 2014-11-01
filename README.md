@@ -3,7 +3,7 @@ AreaTime
 
 Simple and elegant solution to get local times from across the world
 
-https://chrome.google.com/webstore/detail/geiblkaaibihclncpdljbfdbhbokelbg
+https://chrome.google.com/webstore/detail/areatime/geiblkaaibihclncpdljbfdbhbokelbg?hl=en&gl=US
 
 Copyright (c) 2014 Cristi Citea
 
