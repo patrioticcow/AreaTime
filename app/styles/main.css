@@ -1,0 +1,18 @@
+#timestamp_body {
+	min-width  : 500px;
+	padding    : 10px;
+	background : #fcfcfc;
+}
+.spacing {
+	background : #dadada;
+	padding    : 2px;
+}
+.spacing_hover:hover {
+	background : #f2f2f2;
+}
+td {
+	padding : 2px;
+}
+table {
+	background : #ffffff;
+}
