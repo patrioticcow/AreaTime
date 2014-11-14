@@ -10,9 +10,9 @@
 .spacing_hover:hover {
 	background : #f2f2f2;
 }
-td {
+#timestamp_body td {
 	padding : 2px;
 }
-table {
+#timestamp_body table {
 	background : #ffffff;
 }

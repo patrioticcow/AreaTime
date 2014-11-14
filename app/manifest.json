@@ -1,6 +1,6 @@
 {
   "name": "AreaTime",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "manifest_version": 2,
   "description": "Get local times from across the world",
   "icons": {

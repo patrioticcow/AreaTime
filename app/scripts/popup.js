@@ -28,7 +28,7 @@ window.addEventListener('load', function (evt) {
 
     // get latest searched term
     chrome.storage.local.get('term', function (items) {
-        document.getElementById('from').value = items.term;
+        document.getElementById('from').value = items.term !== undefined ? items.term : 'Enter a city, state or zip code';
     });
 
     // add the results to localstorage
